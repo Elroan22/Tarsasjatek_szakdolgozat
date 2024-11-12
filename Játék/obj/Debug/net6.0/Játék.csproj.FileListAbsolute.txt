@@ -1,0 +1,12 @@
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\bin\Debug\net6.0\Játék.deps.json
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\bin\Debug\net6.0\Játék.dll
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\bin\Debug\net6.0\Játék.pdb
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.csproj.AssemblyReference.cache
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.AssemblyInfoInputs.cache
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.AssemblyInfo.cs
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.csproj.CoreCompileInputs.cache
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.dll
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\refint\Játék.dll
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\Játék.pdb
+C:\MyPrograms\SzakDolgozat\Tronokharca\Játék\obj\Debug\net6.0\ref\Játék.dll
